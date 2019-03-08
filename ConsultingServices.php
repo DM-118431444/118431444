@@ -100,9 +100,9 @@ nav ul {
   <h1>Mulcahys Consulting Services</h1>
 </div>
      <div class="topnav">
-  <a href="http://localhost:8000/ConsultHomePage.php">About Consulting</a>
-  <a href="http://localhost:8000/eBus1.php">Services</a>
-  <a href="http://localhost:8000/Welcome.php">Back to Welcome Page</a>
+  <a href="ConsultHomePage.php">About Consulting</a>
+  <a href="eBus1.php">Services</a>
+  <a href="Welcome.php">Back to Welcome Page</a>
       
 </div>
          <nav>

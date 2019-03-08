@@ -61,9 +61,9 @@ and open the template in the editor.
         <br><br><br><br>
        <strong><center> <font color="white"><p style="font-size:100px;font-family:verdana;">Welcome!</p></font></center></strong>
     <center>
-        <a <button href="http://localhost:8000/cv.html"  class="button button5">CV</button></a>
-        <a <button href="http://localhost:8000/interests2.html" class="button button5">Interests</button></a>
-        <a <button href="http://localhost:8000/ConsultingServices.php" class="button button5">Consulting Services</button></a>
+        <a <button href="cv.html"  class="button button5">CV</button></a>
+        <a <button href="interests2.html" class="button button5">Interests</button></a>
+        <a <button href="ConsultingServices.php" class="button button5">Consulting Services</button></a>
     </center>
  <?php
         // put your code here
