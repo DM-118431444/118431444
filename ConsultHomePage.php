@@ -105,13 +105,13 @@ p {
   <h1>Mulcahy LTD Consulting Services</h1>
 </div>
           <div class="topnav">
-  <a href="http://localhost:8000/ConsultHomePage.php">About Consulting</a>
-  <a href="http://localhost:8000/eBus1.php">Services</a>
-  <a href="http://localhost:8000/Welcome.php">Back to Welcome Page</a>
+  <a href="ConsultHomePage.php">About Consulting</a>
+  <a href="eBus1.php">Services</a>
+  <a href="Welcome.php">Back to Welcome Page</a>
 </div>
         <h2>About Us</h2><br>
         <p>Mulcahy LTD helps transform the world's most important businesses into vigorous, agile organizations that anticipate the unpredictable, adapt rapidly to disruption and outcompete their opposition. We work with clients who do not hide from the future but want to define it, clients with high potential and high ambition, determined to adapt and become enduring winners.</p>
-        <a <button class="button button1" href="http://localhost:8000/ConsultingServices.php" >Learn more</button></a>
+        <a <button class="button button1" href="ConsultingServices.php" >Learn more</button></a>
             
             <?php
         // put your code here
